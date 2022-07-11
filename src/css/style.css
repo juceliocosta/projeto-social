@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../img/fundo-madeira.jpg') no-repeat top center;
     background-size: cover; /*cobrir a tela inteira*/
     background-attachment: fixed; /*para não haver rolagem*/
 }
@@ -29,7 +29,7 @@ section#telefone {
     transform: translate(-50%, -50%); /* alterar o ponto de referencia do elemento*/ 
     height: 627px;
     width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../img/frame-iphone.png') no-repeat;
 }
 
 iframe#tela {
